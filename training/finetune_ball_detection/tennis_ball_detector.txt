@@ -1,0 +1,3 @@
+#finetune a yolo model  to detect the tennis ball
+# run done at colab for gpu usage ^_^
+# model at models dir
