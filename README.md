@@ -2,13 +2,13 @@
  use machine learning, computer vision and deep learning to create a tennis analysis system. This project utilizes YOlO a state of the art object detector to detect the players and the tennis balls. It also utilizes trackers to track those object across frames. 
 ## link of [tutorial](https://www.youtube.com/watch?v=L23oIHZE14w)
 
-## Output Videos
+## Outputs
 Here is a screenshot from one of the output videos:
 
 ![Screenshot](output_videos/screenshot.jpeg)
 
 ## Models Used
-* YOLO v8 for player detection
+* YOLO v11n for player detection
 * Fine Tuned YOLO for tennis ball detection
 * Court Key point extraction
 
